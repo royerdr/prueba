@@ -1,2 +1,0 @@
-# prueba
-mostrar por defecto
